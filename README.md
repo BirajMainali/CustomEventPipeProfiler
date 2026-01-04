@@ -1,7 +1,6 @@
 # .NET Real-Time Diagnostic Tool
 
-A **lightweight**, **real-time** diagnostic tool for monitoring .NET processes.  
-It leverages **EventPipe** to stream high-resolution metrics directly from the runtime.
+A **lightweight**, **real-time** diagnostic tool for monitoring .NET processes. It leverages **EventPipe** to stream high-resolution metrics directly from the runtime.
 
 ## Features
 - Real-time CPU and memory monitoring
