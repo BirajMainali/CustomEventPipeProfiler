@@ -1,3 +1,22 @@
-<img width="1043" height="342" alt="image" src="https://github.com/user-attachments/assets/ea6a2a50-9249-4e14-9bf6-003915b2e4e7" />
+# .NET Real-Time Diagnostic Tool
 
-<img width="1416" height="649" alt="image" src="https://github.com/user-attachments/assets/957c5f86-0158-4a83-8c0d-f7fc91f7a1d7" />
+A **lightweight**, **real-time** diagnostic tool for monitoring .NET processes.  
+It leverages **EventPipe** to stream high-resolution metrics directly from the runtime.
+
+## Features
+- Real-time CPU and memory monitoring
+- Lightweight and easy to run
+- Ideal for performance profiling and troubleshooting
+
+## Getting Started
+Run the tool with:
+
+```bash
+dotnet run
+```
+
+## Sample Output
+
+<img width="2329" height="582" alt="image" src="https://github.com/user-attachments/assets/0c52df84-d2f8-4ac6-9c76-4608f967bc8a" />
+
+<img width="1353" height="477" alt="image" src="https://github.com/user-attachments/assets/89bd287f-435f-4acd-b61c-ff177cf20f9d" />
